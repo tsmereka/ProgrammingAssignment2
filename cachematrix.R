@@ -1,4 +1,4 @@
-## Created by Taras Smereka on Jan 25th 2016
+## Created by tsmereka on Jan 25th 2016
 
 ## makeCacheMatrix creates a special "matrix" object
 ## that can cache its inverse.
